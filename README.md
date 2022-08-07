@@ -7,12 +7,12 @@ Intergalactic Pack is a Minecraft modpack using the Fabric mod loader. This pack
 * [Intergalactic Pack]() is the (mostly) barebones version of the pack with all of the content mods needed to join a server. 
 * [Intergalactic Pack Overloaded]() has these same mods plus some extra QOL stuff and the default configuration I like to use. It is still compatible with a server running the barebones pack.
 
-### See [server.txt]() for the list of mods needed to run a dedicated server.
+### See [server.txt](https://github.com/J164/intergalactic-pack/blob/main/server.txt) for the list of mods needed to run a dedicated server.
 
 ***
 ## **Please do not report bugs to mod authors!**
 
-Many problems that may arise while playing modpacks are due to compatibility problems between mods. It will be a lot more helpful both to you and to mod authors to initially report bugs encountered while playing this modpack to our [issue tracker](). Only after a bug is found to be due to a problem in a particular mod, it is appropriate to report it to that mod's issue tracker.
+Many problems that may arise while playing modpacks are due to compatibility problems between mods. It will be a lot more helpful both to you and to mod authors to initially report bugs encountered while playing this modpack to our [issue tracker](https://github.com/J164/intergalactic-pack/issues). Only after a bug is found to be due to a problem in a particular mod, it is appropriate to report it to that mod's issue tracker.
 
 ***
 
