@@ -1,0 +1,16 @@
+name = "Intergalactic Pack Overloaded"
+author = "J164"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d4fe9f88d030631c16147540cdbe2d10f118d9a86f70e7262701d40e6526ff9e"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.1"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1"]

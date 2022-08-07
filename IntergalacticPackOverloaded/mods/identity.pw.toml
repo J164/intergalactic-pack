@@ -1,0 +1,13 @@
+name = "Identity"
+filename = "identity-2.5.0-1.19-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2b30612a08a5248d4210ccc90b90c142919ef60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3876251
+project-id = 391390
