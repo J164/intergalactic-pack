@@ -1,6 +1,7 @@
 [Mods]
 Adorn (https://modrinth.com/mod/adorn)
 Applied Energistics 2 (https://modrinth.com/mod/ae2)
+Architect's Palette (https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric)
 Architectury API (https://modrinth.com/mod/architectury-api)
 Better Fabric Console (https://www.curseforge.com/minecraft/mc-mods/better-fabric-console)
 CC: Restitched (https://modrinth.com/mod/cc-restitched)
