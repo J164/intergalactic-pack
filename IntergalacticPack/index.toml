@@ -226,6 +226,11 @@ hash = "02cadd2a0f03f02f9cebf0ee71eead05923329519dd6218ff5fd641f55a70ff1"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "441f5f7ce1dbe2813105ca2e70ab55d9c63aa66b99e9140be55a24a25054db3b"
 metafile = true

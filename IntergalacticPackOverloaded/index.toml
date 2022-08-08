@@ -268,11 +268,6 @@ hash = "93943bd52619233f1997c41be2b2ae566b0dadfb49bf806a6c73cf44db73d494"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
-metafile = true
-
-[[files]]
 file = "mods/paintings.pw.toml"
 hash = "ae6eaa1e4d48f0e784696d29ffb3ca62044d31f800cf6167ef5aab938fb49f0d"
 metafile = true
@@ -310,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "02cadd2a0f03f02f9cebf0ee71eead05923329519dd6218ff5fd641f55a70ff1"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
