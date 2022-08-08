@@ -68,6 +68,11 @@ hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "ca60abcfe34cce382cd93ef7e4cfe2e9a959d1389470256f5787f3db8396f9f0"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6e47504aafa79ab804511abdd397038bc97a60f70662509b341981df93e29992"
 metafile = true

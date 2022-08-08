@@ -11,6 +11,11 @@ hash = "da711c3643bb0a10fe225484eb7e57487368e33859c4a96d8564bf56a05d42e1"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "ca60abcfe34cce382cd93ef7e4cfe2e9a959d1389470256f5787f3db8396f9f0"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6e47504aafa79ab804511abdd397038bc97a60f70662509b341981df93e29992"
 metafile = true
@@ -234,7 +239,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "441f5f7ce1dbe2813105ca2e70ab55d9c63aa66b99e9140be55a24a25054db3b"
 metafile = true
-
-[[files]]
-file = "server.txt"
-hash = "06329c187c072904cb063cb42b30e9cf6b6b608c50af9981d1be32eda5c07b03"
