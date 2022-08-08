@@ -1,2 +1,1 @@
-Update to 1.19.2
-Remove 1.19 from acceptable-game-versions
+Remove "1.19" and "1.19.1" from acceptable-game-versions
